@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Islaah",
+    "slug": "islaahApp",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "android"
+    ],
+    "version": "6.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/img/icon.png",
+    "splash": {
+      "resizeMode": "cover",
+      "image": "./assets/img/splash.png",    
+      "backgroundColor": "#3bd3d3"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "versionCode": 6,
+      "package": "com.islaah.islaah",
+      "splash": {
+        "resizeMode": "contain",
+        "image": "./assets/img/splash.png",    
+        "backgroundColor": "#3bd3d3"
+      },
+      "permissions": ["WAKE_LOCK"]
+    }
+  }
+}

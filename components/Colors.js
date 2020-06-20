@@ -1,0 +1,15 @@
+export const blue = '#71cefc'
+export const green = '#98f2bc'
+export const purple = '#d5aef2'
+export const yellow = '#efed81'
+export const orange = '#eda790'
+export const pink = '#f78fcd'
+export const gray = '#dbdde0'
+export const searchGray = '#e5e0e5'
+export const white = '#f7f8f9'
+export const mainGreen = '#a2bca2'
+export const mainBlack = '#505150'
+export const darkPink = '#fc83ad'
+export const backgroundGradientColor = ['#deefef', '#deefef']
+export const backgroundGradientStart = [0, 0.2]
+export const backgroundGradientEnd = [1, 0.9]
